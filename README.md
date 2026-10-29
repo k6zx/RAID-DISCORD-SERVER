@@ -1,45 +1,78 @@
-<img width="699" height="550" alt="k6z" src="https://github.com/user-attachments/assets/0e5f7d29-6127-4186-961a-3e9a5de4b858" />
+# k6zx — Discord Tool
 
-k6zx — Discord Tool
 
-Français
 
-Créé par : k6zx
+## Français
+
+
+
+**Créé par :** k6zx
+
 Bienvenue sur mon projet Python dédié à Discord.
 
-Fonctionnalités
 
-Interface en ligne de commande
-Outils Python pour Discord
-Installation des dépendances
 
-Installation
+### Fonctionnalités
 
-Installe Python.
-Installe les dépendances avec `pip`.
-Lance le script.
 
-Auteur
-k6zx
 
----
+* Interface en ligne de commande
+* Outils Python pour Discord
+* Installation des dépendances
 
-English
 
-Created by: k6zx
+
+### Installation
+
+
+
+1. Installe Python.
+2. Installe les dépendances avec `pip`.
+3. Lance le script.
+
+
+
+### Auteur
+
+**k6zx**
+
+
+
+\---
+
+
+
+## English
+
+
+
+**Created by:** k6zx
+
 Welcome to my Python project dedicated to Discord.
 
-Features
 
-Command-line interface
-Python tools for Discord
-Dependency installation
 
-Installation
+### Features
 
-Install Python.
-Install the dependencies using `pip`.
-Run the script.
 
-Author
-k6zx
+
+* Command-line interface
+* Python tools for Discord
+* Dependency installation
+
+### 
+
+### Installation
+
+
+
+1. Install Python.
+2. Install the dependencies using `pip`.
+3. Run the script.
+
+### 
+
+### Author
+
+**k6zx**
+
